@@ -56,7 +56,7 @@ Since this is multiclass classification and it has 24 classes , softmax function
 * [SumedhG10/CNN_ResNet50_MulticlassClassification/Resne50_multiclass_ball](https://github.com/SumedhG10/CNN_ResNet50_MulticlassClassification/blob/master/Resne50_multiclass_ball.ipynb)
 
 
-## Contributing DSWG Members
+## Contributor
 
 **Team Leads (Contacts) : [Sumedh Ghatage](https://github.com/SumedhG10)**
 						  [LinkedIn](www.linkedin.com/in/sumedh-ghatage)
